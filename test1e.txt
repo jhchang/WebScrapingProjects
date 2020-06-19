@@ -1,0 +1,130 @@
+URL: http://shop.oreilly.com/product/0636920028154.do
+TITLE: Learning Python, 5th Edition
+BODY:
+Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz’s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages.Complete with quizzes, exercises, and helpful illustrations,  this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3— the latest releases in the 3.X  and 2.X lines—plus all other releases in common use today. You’ll also learn some advanced language features that recently have become more common in Python code.Explore Python’s major built-in object types such as numbers, lists, and dictionariesCreate and process objects with Python statements, and learn Python’s general syntax modelUse functions to avoid code redundancy and package code for reuseOrganize statements, functions, and other tools into larger components with modulesDive into classes: Python’s object-oriented programming tool for structuring codeWrite large programs with Python’s exception-handling model and development toolsLearn advanced Python tools, including decorators, descriptors, metaclasses, and Unicode processing
+
+================================================================================
+
+URL: http://www.reuters.com/article/us-usa-epa-pruitt-idUSKBN19W2D0
+TITLE: EPA chief wants scientists to debate climate on TV
+BODY:
+WASHINGTON (Reuters) - The U.S. Environmental Protection Agency is in the early stages of launching a debate about climate change that could air on television – challenging scientists to prove the widespread view that global warming is a serious threat, the head of the agency said. Environmental Protection Agency Administrator Scott Pruitt speaks during an interview for Reuters at his office in Washington, U.S., July 10, 2017. REUTERS/Yuri GripasThe move comes as the administration of President Donald Trump seeks to roll back a slew of Obama-era regulations limiting carbon dioxide emissions from fossil fuels, and begins a withdrawal from the Paris Climate Agreement - a global pact to stem planetary warming through emissions cuts. “There are lots of questions that have not been asked and answered (about climate change),” EPA Administrator Scott Pruitt told Reuters in an interview late on Monday.  “Who better to do that than a group of scientists... getting together and having a robust discussion for all the world to see,” he added without explaining how the scientists would be chosen. Asked if he thought the debate should be televised, Pruitt said: “I think so. I think so. I mean, I don’t know yet, but you want this to be open to the world. You want this to be on full display. I think the American people would be very interested in consuming that. I think they deserve it.” Pruitt, one of the most controversial figures in the Trump administration, has repeatedly expressed doubts about climate change – one of the main points of contention in his narrow confirmation by the Senate.  While acknowledging the planet is warming, Pruitt says he questions the gravity of the problem and the need for regulations that require companies to take costly measures to reduce their carbon footprint. “It is a question about how much we contribute to it. How do we measure that with precision? And by the way, are we on an unsustainable path? And is it causing an existential threat?” he said in the interview. Since taking up his role at EPA, he has emerged as one of the more prolific Trump cabinet appointees, taking steps to undo more than two dozen regulations, and influencing Trump’s decision to pull the United States from the Paris climate change deal, agreed by nearly 200 countries in 2015. Related CoverageTranscript of Reuters interview with EPA Administrator Scott PruittPruitt rejected global criticism of the United States for pulling out of the climate deal, which Trump has said would have cost America trillions of dollars without benefit. “We have nothing to be apologetic about,” Pruitt said. “It was absolutely a decision of courage and fortitude and truly represented an America First strategy with respect to how we are leading on this issue.” Pruitt said the United States had already cut its carbon output to the lowest levels in nearly 25 years without mandates, thanks mainly to increased use of natural gas - which burns cleaner than coal. “RED TEAM, BLUE TEAM” TACTICS Pruitt said his desire for the agency to host an ongoing climate change debate was inspired by two articles published in April – one in the Wall Street Journal by theoretical physicist Steve Koonin, who served as undersecretary of energy under Obama – and one by conservative columnist Brett Stephens in the New York Times.  Koonin’s article made the case that climate science should use the “red team-blue team” methodology used by the national security community to test assumptions. Stephens’ article criticized claims of complete certainty in climate science, saying that it “traduces the spirit of science.” Pruitt said scientists should not scoff at the idea of participating in these debates. “If you’re going to win and if you’re so certain about it, come and do your deal. They shouldn’t be scared of the debate and discussion,” he said. Pruitt said debate is not necessarily aimed at undermining the 2009 “endangerment finding,” the scientific determination that carbon dioxide harms human health that formed the basis for the Democratic Obama administration’s regulation of greenhouse gases. He said there may be a legal basis to challenge the finding but would prefer Congress weigh in on the matter. Slideshow (5 Images)In the interview, Pruitt added that he intended to deal “very aggressively” with automakers that use devices to cheat emissions tests, and would also seek to boost accountability for companies to clean up polluted sites under the Superfund program.  He said EPA was also not ready to decide yet on a change proposed by Trump’s special adviser Carl Icahn to the U.S. biofuels program, that would shift the burden of blending biofuels like ethanol into gasoline away from refiners to companies further down the supply chain. Editing by Richard Valdmanis and Marguerita ChoyOur Standards:The Thomson Reuters Trust Principles.
+
+================================================================================
+
+URL: https://www.brookings.edu/articles/modeling-with-data-tools-and-techniques-for-scientific-computing/
+TITLE: Modeling with Data: Tools and Techniques for Scientific Computing
+Modeling with Data: Tools and Techniques for Scientific Computing
+BODY:
+
+
+PREFACE
+
+
+Should you use the book? This book is intended to be a complement to the standard stats textbook, in three ways.
+First, descriptive and inferential statistics are kept separate beginning with the first sentence of the first chapter. I believe that the fusing of the two is the number one cause of confusion among statistics students.
+Once descriptive modeling is given its own space, and models do not necessarily have to be just preparation for a test, the options blossom. There are myriad ways to convert a subjective understanding of the world into a mathematical model, including simulations, models like the Bernoulli/Poisson distributions from traditional probability theory, ordinary least squares, and who knows what else.
+If those options aren’t enough, simple models can be combined to form multilevel models to describe situations of arbitrary complexity. That is, the basic linear model or the Bernoulli/Poisson models may seem too simple for many situations, but they are building blocks that let us produce more descriptive models. The overall approach concludes with multilevel models as in, e.g., Eliason (1993), Pawitan (2001) or Gelman & Hill (2007).
+Second, many stats texts aim to be as complete as possible, because completeness and a thick spine give the impression of value-for-money: you get a textbook and a reference book, so everything you need is guaranteed to be in there somewhere. 
+But it’s hard to learn from a reference book. So I have made a solid effort to provide a narrative to the important points about statistics, even though that directly implies that this book is incomplete relative to the more encyclopedic texts. For example, moment generating functions are an interesting narrative on their own, but they are tangential to the story here, so I do not mention them.
+Computation The third manner in which this book complements the traditional stats textbook is that it acknowledges that if you are working with data full time, then you are working on a computer full time. The better you understand computing, the more you will be able to do with your data, and the faster you will be able to do it.
+People like to characterize computing as fast-paced and ever-changing, but much of that is just churn on the syntactic surface. The fundamental concepts, conceived by mathematicians with an eye toward the simplicity and elegance of pencil-and paper math, have been around for as long as anybody can remember. Time spent learning those fundamentals will pay off no matter what exciting new language everybody happens to be using this month.
+
+
+Related Books
+
+
+
+
+
+R
+
+
+
+Restoring the American Dream
+
+
+						By Richard D. Kahlenberg 
+2019
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Higher Education to 2030
+
+
+						By Organization for Economic Cooperation and Development OECD 
+2019
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Leapfrogging Inequality
+
+
+						By Rebecca Winthrop; With Adam Barton and Eileen McGivney 
+2018
+
+
+
+
+
+
+I spent much of my life ignoring the fundamentals of computing and just hacking together projects using the package or language of the month: C++, Mathematica, Octave, Perl, Python, Java, Scheme, SPLUS, Stata, R, and probably a few others that I’ve forgotten. Albee (1960, p 30) explains that “sometimes it’s necessary to go a long distance out of the way in order to come back a short distance correctly;” this is the distance I’ve gone to arrive at writing a book on data-oriented computing using a general and basic computing language. For the purpose of modeling with data, I have found C to be an easier and more pleasant language than the purpose-built alternatives—especially after I worked out that I could ignore much of the advice from books written in the 1980s and apply the techniques I learned from the scripting languages.
+WHAT IS THE LEVEL OF THIS BOOK? The short answer is that this is intended for the graduate student or independent researcher, either as a supplement to a standard first-year stats text or for later study. Here are a few more ways to answer that question:
+• Ease of use versus ease of initial use: The majority of statistics students are just trying to slog through their department’s stats requirement so they can never look at another data set again. If that is you, then your sole concern is ease of initial use, and you want a stats package and a textbook that focus less on full proficiency and more on immediate intuition.1[1]
+ 
+
+
+
+
+
+
+Ben Klemens
+Senior Statistician - Office of Tax Analysts, U.S. Department of Treasury
+
+
+
+
+Conversely, this book is not really about solving today’s problem as quickly as physically possible, but about getting a better understanding of data handling, computing, and statistics. Ease of long-term use will follow therefrom.
+• Level of computing abstraction: This book takes the fundamentals of computing seriously, but it is not about reinventing the wheels of statistical computing. For example, Numerical Recipes in C (Press et al., 1988) is a classic text describing the algorithms for seeking optima, efficiently calculating determinants, and making random draws from a Normal distribution. Being such a classic, there are many packages that implement algorithms on its level, and this book will build upon those packages rather than replicate their effort.
+• Computing experience: You may have never taken a computer science course, but do have some experience in both the basics of dealing with a computer and in writing scripts in either a stats package or a scripting language like Perl or Python.
+• Computational detail: This book includes about 80 working sample programs.
+Code clarifies everything: English text may have a few ambiguities, but all the details have to be in place for a program to execute correctly. Also, code rewards the curious, because readers can explore the data, find out to what changes a procedure is robust, and otherwise productively break the code.
+That means that this book is not computing-system-agnostic. So if you are a devotee of a stats package not used here, then why look at this book? Although I do not shy away from C-specific details of syntax, most of the book focuses on the conceptual issues common to all computing environments. If you never look at C code again after you finish this book, you will still have a better grounding for effectively working in your preferred programming language.
+• Linear algebra: You are reasonably familiar with linear algebra, such that an expression like X−1 is not foreign to you. There are a countably infinite number of linear algebra tutorials in books, stats text appendices, and online, so this book does not include yet another.
+• Statistical topics: The book’s statistical topics are not particularly advanced or trendy: OLS, maximum likelihood, or bootstrapping are all staples of first-year grad-level stats. But by creatively combining building blocks such as these, you will be able to model data and situations of arbitrary complexity.
+
+View book »
+
+
+
+[1] I myself learned a few things from the excellently written narrative in Gonick & Smith (1994).
+
+
+
+
+================================================================================
+
+URL: https://www.nytimes.com/2018/01/28/business/energy-environment/oil-boom.html
+TITLE: Oil Boom Gives the U.S. a New Edge in Energy and Diplomacy
+BODY:
+HOUSTON — A substantial rise in oil prices in recent months has led to a resurgence in American oil production, enabling the country to challenge the dominance of Saudi Arabia and dampen price pressures at the pump.The success has come in the face of efforts by Saudi Arabia and its oil allies to undercut the shale drilling spree in the United States. Those strategies backfired and ultimately ended up benefiting the oil industry.Overcoming three years of slumping prices proved the resiliency of the shale boom. Energy companies and their financial backers were able to weather market turmoil — and the maneuvers of the global oil cartel — by adjusting exploration and extraction techniques.After a painful shakeout in the industry that included scores of bankruptcies and a significant loss of jobs, a steadier shale-drilling industry is arising, anchored by better-financed companies.With the price of West Texas intermediate crude above $65 a barrel, a level not seen in almost three years, the United States is becoming a dominant producer. It is able to outflank competitors in supplying growing global markets, particularly China and India, while slashing imports from the Middle East and North Africa.This year, the United States is expected to surpass Saudi Arabia and to rival Russia as the world’s leader, with record output of over 10 million barrels a day, according to the International Energy Agency.“This is a 180-degree turn for the United States and the impacts are being felt around the world,” said Daniel Yergin, the economic historian and author of “The Prize: The Epic Quest for Oil, Money and Power.” “This not only contributes to U.S. energy security but also contributes to world energy security by bringing new supplies to the world.”At the same time, the United States is becoming a major exporter of natural gas, another outgrowth of the shale revolution, undercutting Russian energy dominance over Eastern Europe.The improving energy picture comes as the Trump administration is attempting to increase offshore drilling and loosen other regulations on fossil fuel development. But just as the surge in oil and gas production in shale fields during the Barack Obama administration had little to do with Washington, the current rise is the result of private companies responding to global markets.Shale fields can be developed relatively quickly and at modest costs relative to the giant projects, whether on land or offshore, that were once favored by big oil companies. That makes it easier to turn investment spigots on or off to adjust to market fluctuations. Companies like Exxon Mobil and Chevron are putting increasing amounts of capital in shale fields, particularly in West Texas and New Mexico.ImageCars lining up for gas at a California service station in 1973, when an Arab oil embargo caused vast disruption.Credit...Associated PressThe results go far beyond the economic, offering Washington strategic weapons once unthinkable. The United States and its allies now have a supply cushion at a time when political turmoil in Venezuela, Libya and Nigeria is threatening to interrupt flows to markets.Only a few years ago, such threats — along with a recent pipeline failure in the North Sea and storms in the Gulf of Mexico — would have sent the price of crude soaring. Instead, the rise has been muted, and gasoline at the pump remains below $2.60 a gallon across most of the United States.The new energy power also relieves pressure on Washington to act militarily if tensions between Iran and Saudi Arabia break out into war. And it gives Washington the leeway to apply sanctions on other producers — as it has in Russia, and may in Iran or Venezuela — with far less risk to the global economy.It is a striking contrast to the 1970s, when Arab oil boycotts forced motorists to line up for blocks to fill their tanks and the economy went into a tailspin. Even more recently, during the presidency of George W. Bush, domestic oil output was declining so rapidly that the country set a course to replace oil with biofuels like ethanol.Many environmentalists argue that by increasing oil and gas supplies and lowering prices for consumers, shale drilling is extending the life of fossil fuels to the detriment of the environment and the development of cleaner energy.The shale drilling revolution has remade the global energy market, with imports from members of the Organization of the Petroleum Exporting Countries plunging by 20 percent from late 2016 to late 2017. At the same time, exports rose by hundreds of thousands of barrels a day.Nothing like the current situation was foreseen in late 2014, when rising domestic production began weighing on global oil prices.In response, Saudi Arabia led OPEC in a new direction. Instead of throttling back to support prices as the cartel had done so often, it left the market alone and even increased production for a time.Prices fell below $40 a barrel, as the Saudis and their allies hoped to drive American operations out of business by making shale drilling uneconomical. American exploration quickly dropped, but the price squeeze made companies more innovative in the use of drilling technologies, robotics and sensors to maximize output and reduce costs.While scores of smaller companies went out of business, the survivors lengthened horizontal wells to yield more oil, and used clever hedging and drilling strategies to maximize profits even when prices slumped.The response surprised the global oil community. OPEC, Russia and allied producing countries changed course and began cutting back again in 2016.ImageEnergy ministers at a recent meeting of the Organization of the Petroleum Exporting Countries in Oman. Officials discussed an extension of production cuts into 2019 to support prices.Credit...Mohammed Mahjoub/Agence France-Presse — Getty Images“OPEC missed the point,” said René Ortiz, a former OPEC secretary general and former Ecuadorean energy minister. “They thought they could recover the U.S. market by bringing the prices down. Now the U.S. has gained the leading position in the world oil market regardless of what OPEC does.”“This displacement of Saudi oil, Nigerian oil, Libyan oil and Venezuelan oil,” Mr. Ortiz concluded, “was never anticipated.”A week ago, OPEC leaders met in Oman to discuss a probable extension of production cuts into 2019 to support prices. Their biggest obstacle is the United States.Technological advances unlocking oil from tight rocks like shale has led to a drilling frenzy enabling a doubling of output in a decade, transforming unlikely places like North Dakota and New Mexico into world class petroleum hubs. Pipelines are being built across Texas to serve ports where oil can be pumped onto tankers headed for China, India and other markets.Domestic production last year averaged 9.3 million barrels a day, and the Energy Department projects that the figure will climb to 10.3 million barrels a day this year, surpassing the record set in 1970. In the meantime, since a 40-year export ban was lifted in 2015, exports of American oil have risen to roughly two million barrels a day — more than many OPEC members.The department projects an additional increase in domestic production of 500,000 barrels a day in 2019.Concerns over climate change as well as the growing popularity of electric cars and the eventual aging of the best shale fields will probably curb production and demand over the next few decades. But in the short term, the boom has changed the landscape.The Energy Department projects that the recent surge will hold the price of Brent crude, the global benchmark, to $60 a barrel in 2018 and $61 a barrel in 2019 — a modest increase from $54 last year. (The Brent price rose above $70 a barrel this month, but few analysts see a return to $100-a-barrel oil.)The emerging order in the energy realm is a stable balance of power. Saudi Arabia, which essentially runs OPEC, has put a floor under the oil price — probably around $50 a barrel — with its limits on output and exports over the last four years. But now the United States, by the sheer force of its production, the supremacy of its technology, and an unmatched pipeline, refinery and storage structure, has put a ceiling to the price.Experts note that when oil climbs to $60 a barrel and higher, as it has lately, a drilling rush commences — the national rig count has climbed by over a third in the last year — promising to refill domestic and even global energy inventories. Only a major war or other disruption is likely to send prices soaring.“We have all suffered these depressed prices over the last two years and we are excited to see the new prices and we will respond accordingly,” said Harald Jordan, vice president for engineering at Peak Energy, a Colorado-based producer. “You will see rig activity continue to increase.”

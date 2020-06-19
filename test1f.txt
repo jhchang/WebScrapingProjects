@@ -2,37 +2,35 @@ GETTING INFO ABOUT: python
 
 ================================================================================
 
-SELECTOR: h1
-SELECTOR: div.product-description
 New article found for topic: python
 URL: https://www.oreilly.com/programming/free/python-for-scientists.csp
 TITLE: Python for Scientists
 BODY:
 
-Get the free ebook 
-More and more, scientists are seeing tech seep into their work. From data collection to team management, various tools exist to make your lives easier. But, where to start? Python is growing in popularity in scientific circles, due to its simple syntax and seemingly endless libraries. This free ebook gets you started on the path to a more streamlined process. With a collection of chapters from our top scientific books, you'll learn about the various options that await you as you strengthen your computational thinking.This free ebook includes chapters from:Python for Data AnalysisEffective Computation in PhysicsBioinformatics Data SkillsPython Data Science Handbook
-
+        
+          Get the free ebook 
+        
+        More and more, scientists are seeing tech seep into their work. From data collection to team management, various tools exist to make your lives easier. But, where to start? Python is growing in popularity in scientific circles, due to its simple syntax and seemingly endless libraries. This free ebook gets you started on the path to a more streamlined process. With a collection of chapters from our top scientific books, you'll learn about the various options that await you as you strengthen your computational thinking.This free ebook includes chapters from:Python for Data AnalysisEffective Computation in PhysicsBioinformatics Data SkillsPython Data Science Handbook
+      
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.product-description
 New article found for topic: python
 URL: https://www.oreilly.com/programming/free/python-data-for-developers.csp
 TITLE: Python Data for Developers
 BODY:
 
-Get the free ebook 
-Data is everywhere, and not just for data scientists. Developers are increasingly seeing it enter their realm, requiring new skills and problem solving. Python has emerged as a giant in the field, combining an easy-to-learn language with strong libraries and a vibrant community. If you have a programming background (in Python or otherwise), this free ebook will provide a snapshot of the landscape for you to start exploring more deeply.
-
+        
+          Get the free ebook 
+        
+        Data is everywhere, and not just for data scientists. Developers are increasingly seeing it enter their realm, requiring new skills and problem solving. Python has emerged as a giant in the field, combining an easy-to-learn language with strong libraries and a vibrant community. If you have a programming background (in Python or otherwise), this free ebook will provide a snapshot of the landscape for you to start exploring more deeply.
+      
 
 --------------------------------------------------------------------------------
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKBN1ZG16F
 TITLE: 'It was going for my throat': Florida python hunters wrestle invasive snakes
@@ -41,8 +39,6 @@ OCHOPEE, Fla. (Reuters) - Thomas Aycock’s life flashed before his eyes one nig
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSFWN2CU0ZV
 TITLE: BRIEF-FDA Says Applied Medical Recalls Python Embolectomy, Bard Embolectomy, And Otw Latis Cleaning Catheters
@@ -51,8 +47,6 @@ May 12 (Reuters) - U.S. FDA: * FDA SAYS APPLIED MEDICAL RECALLS PYTHON EMBOLECTO
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKBN1ZL1QG
 TITLE: Monty Python star Terry Jones dies aged 77
@@ -61,8 +55,6 @@ LONDON (Reuters) - Terry Jones, one of the British Monty Python comedy team and 
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSL8N29R45I
 TITLE: Monty Python star Terry Jones dies aged 77
@@ -71,8 +63,6 @@ LONDON (Reuters) - Terry Jones, one of the British Monty Python comedy team and 
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSS8N27T00I
 TITLE: Monty Python actor Terry Jones dies aged 77 - PA Media
@@ -82,8 +72,6 @@ Stephen AddisonOur Standards:The Thomson Reuters Trust Principles.
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKBN1YR1AP
 TITLE: Brussels puppet theater adds Monty Python humor to nativity tale
@@ -92,8 +80,6 @@ BRUSSELS (Reuters) - A Brussels puppet theater as old as Belgium itself is stagi
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSL5N26Q0CH
 TITLE: Monty Python fans, handkerchiefs on heads, gather to mark anniversary
@@ -102,8 +88,6 @@ Monty Python fans dressed as the Gumbys gather in an attempt to set the world re
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKBN1WJ1IF
 TITLE: Pine no more! Monty Python celebrates 50 years of silliness
@@ -112,8 +96,6 @@ FILE PHOTO: People attend the Silly Walk Parade, emulating a sketch from British
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSL5N26P2SI
 TITLE: Pine no more! Monty Python celebrates 50 years of silliness
@@ -122,8 +104,6 @@ FILE PHOTO: People attend the Silly Walk Parade, emulating a sketch from British
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKCN11S04G
 TITLE: Python in India demonstrates huge appetite
@@ -135,165 +115,183 @@ A 20 feet rock python was caught on camera in Junagadh district of India’s wes
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/blog/up-front/2015/12/21/the-hutchins-center-explains-budgeting-for-aging-america/
 TITLE: The Hutchins Center Explains: Budgeting for aging America
 The Hutchins Center Explains: Budgeting for aging America
 BODY:
 
-
-
+				
+	
 For decades, we have been hearing that the baby-boom generation was like a pig moving through a python–bigger than the generations before and after. 
 That’s true. But that’s also a very misleading metaphor for understanding the demographic forces that are driving up federal spending: They aren’t temporary. The generation born between 1946 and 1964 is the beginning of a demographic transition that will persist for decades after the baby boomers die, the consequence of lengthening lifespans and declining fertility. Putting the federal budget on a sustainable course requires long-lasting fixes, not short-lived tweaks.  
 First, a few demographic facts.
 As the chart below illustrates, there was a surge in births in the U.S. at the end of World War II, a subsequent decline, and then an uptick as baby boomers began having children.
 
-
-
+  
+    
 
 Although the population has been rising, the number of births in the U.S. the past few years has been below the peak baby-boom levels, possibly because many couples chose not to have children during bad economic times. More significant, fertility rates–roughly the number of babies born per woman during her lifetime–have fallen well below pre-baby-boom levels.
 
-
-
+  
+    
 
 Meanwhile, Americans are living longer. In 1950, a man who made it to age 65 could expect to live until 78 and a woman until 81. Social Security’s actuaries project that a man who lived to age 65 in 2010 will reach 84 and a woman age 86.
 
-
-
+  
+    
 
 Put all this together, and it’s clear that a growing fraction of the U.S. population will be 65 or older.   
 The combination of longer life spans and lower fertility rates means the ratio of elderly (over 65) to working-age population (ages 20 to 64) is rising. As the chart below illustrates, the ratio will rise steadily as more baby boomers reach retirement age–and then it levels off.  
 
+  
+    
 
 
 
+	Related Books
+	
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Diversity Explosion
+					
+									
+						By William H. Frey					
+													2018
+							
+				
 
-Related Books
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Society at a Glance 2014
+					
+									
+						By Organization for Economic Cooperation and Development OECD					
+													2014
+							
+				
 
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Brookings-Wharton Papers on Urban Affairs: 2002
+					
+									
+						Edited by William G. Gale and Janet Rothenberg Pack					
+													2010
+							
+				
 
-
-
- 
-
-
-
-Diversity Explosion
-
-
-						By William H. Frey 
-2018
-
-
-
-
-
-
-
-
-
- 
-
-
-
-Society at a Glance 2014
-
-
-						By Organization for Economic Cooperation and Development OECD 
-2014
-
-
-
-
-
-
-
-
-
- 
-
-
-
-Brookings-Wharton Papers on Urban Affairs: 2002
-
-
-						Edited by William G. Gale and Janet Rothenberg Pack 
-2010
-
-
-
-
-
+		
+		
 
 Simply put, this doesn’t look like a pig in a python.  
 So what do these demographic facts portend for the federal budget?  In simple dollars and cents, the federal government spends more on the old than the young. More older Americans means more federal spending on Social Security and Medicare, the health insurance program for the elderly. On top of that, health care spending per person is likely to continue to grow faster than the overall economy.
 The net result: 85 percent of the increase in federal spending that the Congressional Budget Office projects for the next 10 years, based on current policies, will go toward Social Security, Medicare and other major federal health programs, and interest on the national debt.
- 
+	
+		
+				
 
+	
+			
+		
 
+	
+							David Wessel
+		
+							Director - The Hutchins Center on Fiscal and Monetary Policy					Senior Fellow - Economic Studies
+					
+						Twitter
+		davidmwessel
+			
+		
+			
+		
+			
 
+	
 
+	
+			
+		
 
+	
+							Louise Sheiner
+		
+							The Robert S. Kerr Senior Fellow - Economic Studies					Policy Director - The Hutchins Center on Fiscal and Monetary Policy
+		
+			
+		
+			
 
-David Wessel
-Director - The Hutchins Center on Fiscal and Monetary Policy Senior Fellow - Economic Studies
-
- Twitter
-davidmwessel
-
-
-
-
-
-
-
-
-Louise Sheiner
-The Robert S. Kerr Senior Fellow - Economic Studies Policy Director - The Hutchins Center on Fiscal and Monetary Policy
-
-
-
-
-Restraining future deficits and the size of the federal debt mean restraining spending on these programs or raising taxes–and probably both. One-time savings or minor tweaks won’t suffice. Nor will limiting the belt-tightening to annually appropriated spending.
+			
+	
+	Restraining future deficits and the size of the federal debt mean restraining spending on these programs or raising taxes–and probably both. One-time savings or minor tweaks won’t suffice. Nor will limiting the belt-tightening to annually appropriated spending.
 The fundamental fiscal problem is not coping with the retirement of the baby boomers and then going back to budgets that resemble those of the past. The fundamental fiscal problem is that retirement of the baby boomers marks a major demographic transition for the nation, one that will require long-lived changes to benefit programs and taxes.
 
 Editor’s Note: This post originally appeared on 
-The Wall Street Journal’s Washington Wire
+  The Wall Street Journal’s Washington Wire
  on December 18, 2015.
-
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/blog/techtank/2017/11/16/leveraging-the-disruptive-power-of-artificial-intelligence-for-fairer-opportunities/
 TITLE: Leveraging the disruptive power of artificial intelligence for fairer opportunities
 Leveraging the disruptive power of artificial intelligence for fairer opportunities
 BODY:
 
-According to President Obama’s Council of Economic Advisers (CEA), approximately 3.1 million jobs will be rendered obsolete or permanently altered as a consequence of artificial intelligence technologies. Artificial intelligence (AI) will, for the foreseeable future, have a significant disruptive impact on jobs. That said, this disruption can create new opportunities if policymakers choose to harness them—including some with the potential to help address long-standing social inequities. Investing in quality training programs that deliver premium skills, such as computational analysis and cognitive thinking, provides a real opportunity to leverage AI’s disruptive power.
+				According to President Obama’s Council of Economic Advisers (CEA), approximately 3.1 million jobs will be rendered obsolete or permanently altered as a consequence of artificial intelligence technologies. Artificial intelligence (AI) will, for the foreseeable future, have a significant disruptive impact on jobs. That said, this disruption can create new opportunities if policymakers choose to harness them—including some with the potential to help address long-standing social inequities. Investing in quality training programs that deliver premium skills, such as computational analysis and cognitive thinking, provides a real opportunity to leverage AI’s disruptive power.
+	
+		
+				
 
+	
+			
+		
 
+	
+							Makada Henry-Nickie
+		
+							Fellow - Governance Studies
+					
+						Twitter
+		mhnickie
+			
+		
+			
+		
+			
 
-
-
-
-
-Makada Henry-Nickie
-Fellow - Governance Studies
-
- Twitter
-mhnickie
-
-
-
-
-
+			
+	
+	
 AI’s disruption presents a clear challenge: competition to traditional skilled workers arising from the cross-relevance of data scientists and code engineers, who can adapt quickly to new contexts. Data analytics has become an indispensable feature of successful companies across all industries. This reality dictates that companies invest heavily in data analytics to remain competitive and profitable. Consequently, unlikely industries such as retail, banking, finance, and even agricultural firms are aggressively competing for talent with specific computational data science and programming skills. A recent IBM report expertly quantifies the scope and breadth of employers’ hiring demands, noting that “[d]emand for data-driven decision makers, such as data-enabled marketing managers, will comprise one-third of the data savvy professional job market, with a projected increase of 110,000 positions by 2020.” Herein lies a window of opportunity: the rapidly growing technical skills gap.
 Investing in high-quality education and training programs is one way that policymakers proactively attempt to address the workforce challenges presented by artificial intelligence. It is essential that we make affirmative, inclusive choices to ensure that marginalized communities participate equitably in these opportunities.
 Policymakers should prioritize understanding the demographics of those most likely to lose jobs in the short-run. As opposed to obsessively assembling case studies, we need to proactively identify policy entrepreneurs who can conceive of training policies that equip workers with technical skills of “long-game” relevance. As IBM points out, “[d]ata democratization impacts every career path, so academia must strive to make data literacy an option, if not a requirement, for every student in any field of study.”
@@ -303,208 +301,315 @@ Investing in innovative education and training is an excellent place to start. B
 Policymakers can choose to harness AI’s disruptive power to address workforce challenges and redesign fair access to opportunity simultaneously. We should train our collective energies on identifying practical policies that update our current agrarian-based education model, which unfairly disadvantages children from economically segregated neighborhoods. Evidence from a Harvard and New York University research study suggests attending a high-quality high school increases a student’s chances of attending a four-year college; which by extension improves their future income earning potential.
 Let me ask a bold question: how much do we lose if we experiment with substituting an entry-level data science class for machine shop or a vocational carpentry program in urban high schools and community colleges? A 2010 pilot partnership between the University of California, Los Angeles and the National Science Foundation is an encouraging sign; the pilot focuses on redesigning computer science curricula in urban high schools to include newer mobile technologies and computational analysis.
 
-Related
 
+	Related
+	
+			
+			
+	
+		
+			
+																									
+		
+	
+	
+		
+					Technology & Innovation
+				Trends in the Information Technology sector
+		
+							Makada Henry-Nickie, Kwadwo Frimpong, and Hao Sun
+																Friday, March 29, 2019
+					
+		
+		
+			
 
+		
+			
+			
+	
+		
+			
+																									
+		
+	
+	
+		
+					TechTank
+				Regulating free speech on social media is dangerous and futile
+		
+							Niam Yaraghi
+																Friday, September 21, 2018
+					
+		
+		
+			
 
+		
+			
+			
+	
+		
+			
+																									
+		
+	
+	
+		
+					TechTank
+				How to increase financial support during COVID-19 by investing in worker training
+		
+							Gregory Ferenstein
+																Wednesday, May 6, 2020
+					
+		
+		
+			
 
-
-
- 
-
-
-
-Technology & Innovation
-Trends in the Information Technology sector
-
-Makada Henry-Nickie, Kwadwo Frimpong, and Hao Sun
-Friday, March 29, 2019
-
-
-
-
-
-
-
-
-
- 
-
-
-
-TechTank
-Regulating free speech on social media is dangerous and futile
-
-Niam Yaraghi
-Friday, September 21, 2018
-
-
-
-
-
-
-
-
-
- 
-
-
-
-TechTank
-How to increase financial support during COVID-19 by investing in worker training
-
-Gregory Ferenstein
-Wednesday, May 6, 2020
-
-
-
-
+		
+		
 
 
 Data science is an applied computational technology best suited to inquisitive minds, making it appropriate for young students. Google’s TensorFlow is an open source machine-learning platform; its free price tag makes the platform an accessible and scalable training resource for schools with constrained budgets. Introducing a data science program into urban schools would be a major paradigm shift for these students. An applied data science program teaching gateway coding skills such as Python, R, SQL, and computational analysis would boost employment possibilities and create meaningful pathways to economic mobility.
 I am suggesting that we leverage AI’s transformative power to disrupt diminishing possibilities for marginalized groups, like young men of color, who often do not feature in innovative-themed discussions outside of the social justice arena. Open Source groups such as Code.org and StudentRND exemplify the kinds of transformational approaches that democratize access and opportunity.
 Producing a diverse pipeline of tech-savvy workers for Google and Amazon, even if only at the entry level, is a more attainable dream for most cities than competing in a stacked race for Amazon’s HQ2. Broadening adoption of artificial intelligence technologies poses significant workforce challenges, but it also offers the chance to blunt these effects and create opportunities for marginalized groups if we act preemptively.
 Google is a donor to the Brookings Institution. The findings, interpretations, and conclusions posted in this piece are solely those of the authors and not influenced by any donation.
-
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/blog/the-avenue/2014/08/06/the-silicon-valley-wage-premium/
 TITLE: The Silicon Valley Wage Premium
 The Silicon Valley Wage Premium
 BODY:
 
-
-
+				
+	
 Software application developers earn large salaries in the United States, $96,260 a year on average. But in metropolitan San Jose they earn $131,270, the highest in the country. There are many partial explanations for this—local cost of living, differences in education levels, experience, and industry—but none of them quite account for it. It turns out that developers living in San Jose have acquired the specific skills most valued by employers.
- 
+
 As the map below shows, there is a huge amount of variation in earnings for software application developers across regional labor markets. In large metropolitan areas like New York, they earn $105,000, but in Louisville, they earn just $72,000.
- 
-
-Average Salary of Software Application Developers by Metropolitan Area, 2013
-
- 
 
 
- 
+  Average Salary of Software Application Developers by Metropolitan Area, 2013
+
+
+
+  
+
 Similar patterns could be shown for other occupations, of course; for even within the same job title, people vary by education and experience, and regions vary by company and industry mix, productivity and export orientation, which all affect salaries and regional housing prices.
- 
+
 The surprising thing, when it comes to software developers and other skilled occupations too, is that none of these factors can fully account for the San Jose premium. Software developers in San Jose are typically slightly less experienced, and while their levels of education are higher—including their likelihood of having majored in engineering or computer science—the difference is not enough to explain their elevated earnings. Likewise, the cost of living in San Jose is remarkably high, but comparable to other major cities. 
- 
-
-
-Related Books
 
 
 
+	Related Books
+	
+			
+			
 
+	
+		
+							T
+					
+	
+	
+						Trade Policy Review 2018: Nepal
+					
+									
+						By World Trade Organization WTO					
+													2019
+							
+				
 
-T
+		
+			
+			
 
+	
+		
+							T
+					
+	
+	
+						Trade Policy Review 2018: Uruguay
+					
+									
+						By World Trade Organization WTO					
+													2019
+							
+				
 
+		
+			
+			
 
-Trade Policy Review 2018: Nepal
+	
+		
+							T
+					
+	
+	
+						Trade Policy Review 2018: Colombia
+					
+									
+						By World Trade Organization WTO					
+													2019
+							
+				
 
-
-						By World Trade Organization WTO 
-2019
-
-
-
-
-
-
-
-
-T
-
-
-
-Trade Policy Review 2018: Uruguay
-
-
-						By World Trade Organization WTO 
-2019
-
-
-
-
-
-
-
-
-T
-
-
-
-Trade Policy Review 2018: Colombia
-
-
-						By World Trade Organization WTO 
-2019
-
-
-
-
-
+		
+		
 
 So what distinguishes San Jose software developers? 
- 
+
 To figure this out, I analyzed a database of 29 million job vacancies advertised online during 2013 as compiled by the analytics firm Burning Glass. Of these, roughly 1.4 million were for software application developers, making it the most in-demand occupation. In total, 3 million ads also contained salary information, which I could use to estimate the average value of each distinct skill advertised. 
- 
+	
+		
+				
 
+	
+			
+		
 
+	
+							Jonathan Rothwell
+		
+							Nonresident Senior Fellow - Metropolitan Policy Program
+					
+						Twitter
+		jtrothwell
+			
+		
+			
+		
+			
 
-
-
-
-Jonathan Rothwell
-Nonresident Senior Fellow - Metropolitan Policy Program
-
- Twitter
-jtrothwell
-
-
-
-
-
- 
+			
+	
+	
 In San Jose, the skills advertised for software developers are particularly valuable. The average vacancy requires higher value skills in San Jose than almost any other metropolitan area, even using national rather than local salary values.  
- 
-For example, 8.4 percent of ads for software developers in San Jose requested Java, a widely used programming language, associated with an average salary of $98,000 across all U.S. ads mentioning both it and a salary requirement. Yet, for the United States as a whole, just 5.7 percent of software developer ads required Java. In New York City, the share was 6.7, and it was 4.7 in Louisville.
- 
-Other high-value programming languages and skills were disproportionately advertised in San Jose, such as Linux, C++, Python and the term “software engineering.”  These skills were much less commonly required for jobs in Louisville and even New York. Only 0.2 percent of software jobs required Python in Louisville and 1.7 in New York City, compared to 2.8 percent in San Jose. It is valued at $100,345.
- 
-These and other skills contribute to the high premium enjoyed by Silicon Valley computer workers, but they could be profitably learned by a much larger swath of people, as online educators like Treehouse, Udacity, and Code Fellows aim to demonstrate.
 
+For example, 8.4 percent of ads for software developers in San Jose requested Java, a widely used programming language, associated with an average salary of $98,000 across all U.S. ads mentioning both it and a salary requirement. Yet, for the United States as a whole, just 5.7 percent of software developer ads required Java. In New York City, the share was 6.7, and it was 4.7 in Louisville.
+
+Other high-value programming languages and skills were disproportionately advertised in San Jose, such as Linux, C++, Python and the term “software engineering.”  These skills were much less commonly required for jobs in Louisville and even New York. Only 0.2 percent of software jobs required Python in Louisville and 1.7 in New York City, compared to 2.8 percent in San Jose. It is valued at $100,345.
+
+These and other skills contribute to the high premium enjoyed by Silicon Valley computer workers, but they could be profitably learned by a much larger swath of people, as online educators like Treehouse, Udacity, and Code Fellows aim to demonstrate.
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/opinions/inside-the-pentagons-secret-afghan-spy-machine/
 TITLE: Inside the Pentagon’s Secret Afghan Spy Machine
 Inside the Pentagon’s Secret Afghan Spy Machine
 BODY:
 
-The Pentagon’s top researchers have rushed a classified and controversial intelligence program into Afghanistan. Known as “Nexus 7,” and previously undisclosed as a war-zone surveillance effort, it ties together everything from spy radars to fruit prices in order to glean clues about Afghan instability.
+				The Pentagon’s top researchers have rushed a classified and controversial intelligence program into Afghanistan. Known as “Nexus 7,” and previously undisclosed as a war-zone surveillance effort, it ties together everything from spy radars to fruit prices in order to glean clues about Afghan instability.
 
+The program has been pushed hard by the leadership of the Defense Advanced Research Projects Agency (DARPA). They see Nexus 7 as both a breakthrough data-analysis tool and an opportunity to move beyond its traditional, long-range research role and into a more active wartime mission. 
+But those efforts are drawing fire from some frontline intel operators who see Nexus 7 as little more than a glorified grad-school project, wasting tens of millions on duplicative technology that has nothing to do with stopping the Taliban. 
+“There are no models and there are no algorithms,” says one person familiar with the program, echoing numerous others who spoke on condition of anonymity because they are not authorized to discuss the program publicly. Just “200 lines of buggy Python code to do what imagery analysts do every day.” 
+
+
+	Related Books
+	
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						Countering Terrorism
+					
+									
+						By Martha Crenshaw and Gary LaFree					
+													2017
+							
+				
+
+		
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						Camp David
+					
+									
+						By William B. Quandt					
+													2016
+							
+				
+
+		
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						Geopolitics in the 21st Century
+					
+									
+						By Michael E. O’Hanlon					
+													2015
+							
+				
+
+		
+		
+
+Read the full article at wired.com >>
+	
+		
+				
+
+	
+			
+			N
+		
+	
+
+	
+							Noah Shachtman
+		
+							Former Brookings Expert					Executive Editor - The Daily Beast
+					
+						Twitter
+		NoahShachtman
+			
+		
+			
+		
+			
+
+			
+	
+				
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/blog/techtank/2016/03/01/idea-to-retire-old-methods-of-policy-education/
 TITLE: Idea to Retire: Old methods of policy education
 Idea to Retire: Old methods of policy education
 BODY:
 
-Public policy and public affairs schools aim to train competent creators and implementers of government policy. While drawing on the principles that gird our economic and political systems to provide a well-rounded education, like law schools and business schools, policy schools provide professional training. They are quite distinct from graduate programs in political science or economics which aim to train the next generation of academics. As professional training programs, they add value by imparting both the skills which are relevant to current employers, and skills which we know will be relevant as organizations and societies evolve. 
+				Public policy and public affairs schools aim to train competent creators and implementers of government policy. While drawing on the principles that gird our economic and political systems to provide a well-rounded education, like law schools and business schools, policy schools provide professional training. They are quite distinct from graduate programs in political science or economics which aim to train the next generation of academics. As professional training programs, they add value by imparting both the skills which are relevant to current employers, and skills which we know will be relevant as organizations and societies evolve. 
 The relevance of the skills that policy programs impart to address problems of today and tomorrow bears further discussion. We are living through an era in which societies are increasingly interconnected. The wide-scale adoption of devices such as the smartphone is having a profound impact on our culture, communities, and economy. The use of social and digital media and associated means of communication enabled by mobile devices is changing the tone, content, and geographic scope of our conversations, modifying how information is generated and consumed, and changing the very nature of citizen engagement. 
 Information technology-based platforms provisioned by private providers such as Facebook, Google, Uber, and Lyft maintain information about millions of citizens and enable services such as transportation that were mediated in the past solely by the public sector. Surveillance for purposes of public safety via large-scale deployment of sensors also raises fundamental questions about information privacy. From technology-enabled global delivery of work to displacement and replacement of categories of work, some studies estimate that up to 47 percent of U.S. employment might be at risk of computerization with an attendant rise in income inequality. These technology-induced changes will affect every policy domain. How should policy programs best prepare students to address societal challenges in this world that is being transformed by technology? We believe the answer lies in educating students to be “men and women of intelligent action.” 
 A model of policy education
@@ -526,301 +631,547 @@ The third pillar of the skills-based model is interpersonal experience, where th
 Pillar 4: Evaluative skills
 
 
-Related Books
+	Related Books
+	
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Constitution 3.0
+					
+									
+						Edited by Jeffrey Rosen and Benjamin Wittes					
+													2013
+							
+				
 
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						The Need for Speed
+					
+									
+						By Robert E. Litan and Hal J. Singer					
+													2013
+							
+				
 
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						After the Breakup
+					
+									
+						By Robert W. Crandall					
+													2010
+							
+				
 
- 
-
-
-
-Constitution 3.0
-
-
-						Edited by Jeffrey Rosen and Benjamin Wittes 
-2013
-
-
-
-
-
-
-
-
-
- 
-
-
-
-The Need for Speed
-
-
-						By Robert E. Litan and Hal J. Singer 
-2013
-
-
-
-
-
-
-
-
-
- 
-
-
-
-After the Breakup
-
-
-						By Robert W. Crandall 
-2010
-
-
-
-
-
+		
+		
 
 The ability to carefully diagnose the effectiveness of policy or management interventions is the fourth pillar of our model. It is insufficient to create and execute policy without measurement, and this is where both careful thought to the fundamental issues of measurement and evaluation become important. The ability to make objective judgments on the benefits, liabilities, and unintended consequences of prior policies is the goal of this set of skills. Here, sound statistical and econometric training with an understanding of the principles of causal inference is essential. In addition, program evaluation skills such as cost-benefit and financial analysis help practitioners round out their evaluation skills by considering both non-monetary and economic impacts.
 What should be retired?
 A skills-based approach might replace certain aspects of existing policy training.  This depends on a number of factors specific to each institution, but three generally applicable observations are clear. First, real-world experiences are a powerful way to encode domain learning as well as project management skills. Through project-based work, students can learn about institutional contexts in specific policy domains and political processes such as budgeting. Second, team-based projects allow students to learn and apply principles of management and organizational behavior. At Carnegie Mellon, we refer to these as “systems synthesis” projects, since they require students to adopt a systemic point of view and to synthesize a number of skills in their policy analysis toolkit. Third, interpersonal skills training can be practiced through activities such as weekend negotiation exercises, hackathons, and speaker series. These activities can be highly intentional and fashioned to reinforce skills rather than as a recess from the “real work” of classroom training. Since students complete graduate programs in such a short time, counseling them to focus on outcomes from day one will allow them to choose a reinforcing set of coursework and real-world experiences. 
 In summary, we argue for a model of policy education that views practitioners as future problem solvers. Good policy education must consider the ways in which problems will present themselves, and the ways in which answers will obscure themselves. Rigorous training grounded in the analysis of available evidence and buoyed by real-world interpersonal experiences is a sound approach to relevant, durable policy training.
- 
+	
+		
+				
 
+	
+			
+			R
+		
+	
 
+	
+							Ramayya Krishnan
+		
+							Ramayya Krishnan is the dean of H. John Heinz III College of Information Systems and Public Policy at Carnegie Mellon University where he is the W.W. Cooper and Ruth F. Cooper Professor of Management Science and Information Systems.
+		
+			
+		
+			
 
+	
 
-R
+	
+			
+			J
+		
+	
 
+	
+							Jon Nehlsen
+		
+							Jon Nehlsen is senior director of external relations at H. John Heinz III College of Information Systems and Public Policy at Carnegie Mellon University.
+		
+			
+		
+			
 
-
-Ramayya Krishnan
-Ramayya Krishnan is the dean of H. John Heinz III College of Information Systems and Public Policy at Carnegie Mellon University where he is the W.W. Cooper and Ruth F. Cooper Professor of Management Science and Information Systems.
-
-
-
-
-
-J
-
-
-
-Jon Nehlsen
-Jon Nehlsen is senior director of external relations at H. John Heinz III College of Information Systems and Public Policy at Carnegie Mellon University.
-
-
-
-
-
-Read other essays in the Ideas to Retire blog series here.
-
+			
+	
+	
+  Read other essays in the Ideas to Retire blog series here.
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/opinions/skills-success-and-why-your-choice-of-college-matters/
 TITLE: Skills, success, and why your choice of college matters
 Skills, success, and why your choice of college matters
 BODY:
 
-
-
+				
+	
 Amidst growing frustration with the cost of higher education, complaints also abound about its quality. One critique, launched in the book Academically Adrift by two sociologists, finds little evidence that college students score better on measures of critical thinking, writing, and reasoning after attending college. This is something of a paradox, since strong evidence shows that attending college tends to raise earnings power, even for students who start with mediocre preparation. 
 Our recent study uses a different approach to assess the value of a college education. We find that the particular skills listed by a college’s alumni on their resumes predict how well graduates from those schools perform in terms of earning a living, meeting debt obligations, and working for high-paying or innovative companies. Since jobs requiring more valuable skills typically require at least some college education, this finding suggests many students are gaining valuable skills from college. But the variation in alumni skills across schools is wide, even after considering the aptitude of the students in terms of their pre-admission test scores. This variation implies that what one studies and where have big effects on economic outcomes.
 
+  
 
 
-
-Skills versus degrees
+  Skills versus degrees
 
 It is widely known that education raises individual earnings, but education—measured in years of study or level of degree—is a very rough measure of learning. Thus, it is not surprising that studies consistently find that skills are an important predictor of economic outcomes. People with higher test scores—another measure of learning—earn higher wages, even with the same level of education. Likewise, graduates with technical degrees earn more, as do workers in occupations requiring more STEM skills. At the international scale, performance on standardized exams has a much stronger statistical relationship with economic outcomes than do years of education, according to a new OECD study.
 
+  
 
 
-
-How we valued skills by college
+  How we valued skills by college
 
 Using data from the company Burning Glass, we calculated the average salary listed for distinct skills based on 3 million job vacancy ads. To match these skills to colleges, we used data from LinkedIn’s college profile pages, which show the 25 most common skills (e.g., customer service, Microsoft Excel, Python) listed by alumni from each college. For the average college, we observed 1,150 profiles per skill. (A great advantage of using LinkedIn data is the large sample size.) We obtained data for 2,164 colleges representing profiles for 2.5 million U.S. residents who attended college. By comparison, Academically Adrift surveyed 2,300 college graduates.
 
+  
 
 
-
-Alumni with more valuable skills earn higher salaries
+  Alumni with more valuable skills earn higher salaries
 
 Measured at mid-career (meaning at least 10 years of working), salaries tend to be much higher for alumni who list high-value skills on their resumes. Earnings go up by an average of $2,600 for every decile of skill. Our more detailed empirical work shows that skills predict higher earnings even after controlling for math test scores on the ACT and SAT, as well as other student characteristics like family income.
 Cal Tech graduates list the highest-value skills (e.g., Matlab, Python, C++, algorithms, and machine learning) and typically earn $126,000 at mid-career. Other four-year schools with high-value skills and high salaries include Harvey Mudd, MIT, the Polytechnic Institute of New York University, and the Air Force Academy. 
 Earnings data from two-year colleges are not as widely available, and the correlation with alumni skills is weaker, but alumni from those schools also seem to benefit from higher skills training. Top schools include the Pittsburg Institute of Aeronautics, Spartan College of Aeronautics and Technology (Tulsa, Okla.), Coleman University (San Diego), Hondros College (Columbus, Ohio), and SUNY College of Technology at Alfred.
 
+  
+
+  
+
+
+  Alumni with more valuable skills have higher loan repayment rates
 
 
 
+	Related Books
+	
+			
+			
 
+	
+		
+							R
+					
+	
+	
+						Restoring the American Dream
+					
+									
+						By Richard D. Kahlenberg					
+													2019
+							
+				
 
-Alumni with more valuable skills have higher loan repayment rates
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Higher Education to 2030
+					
+									
+						By Organization for Economic Cooperation and Development OECD					
+													2019
+							
+				
 
+		
+			
+			
 
-Related Books
+	
+		
+							
+									
+					
+	
+	
+						The Transformation of Title IX
+					
+									
+						By R. Shep Melnick					
+													2018
+							
+				
 
-
-
-
-
-R
-
-
-
-Restoring the American Dream
-
-
-						By Richard D. Kahlenberg 
-2019
-
-
-
-
-
-
-
-
-
- 
-
-
-
-Higher Education to 2030
-
-
-						By Organization for Economic Cooperation and Development OECD 
-2019
-
-
-
-
-
-
-
-
-
- 
-
-
-
-The Transformation of Title IX
-
-
-						By R. Shep Melnick 
-2018
-
-
-
-
-
+		
+		
 
 As an alternative to mid-career earnings, we also analyzed how skills predict the ability to make student loan payments immediately after graduation. Here too, more valuable skills translate into labor market success. For example, not a single Harvey Mudd attendee between 2009 and 2011 defaulted on his or her federal loans within three years of leaving. Repayment rates average 95 percent for four-year colleges in the top 10 percent for alumni skills but 87 percent for those in the bottom 10 percent. For two-year colleges, repayment rates are uniformly lower, but colleges offering higher-value skills still have significantly higher repayment rates than those that do not.
 
+  
+
+  
 
 
-
-
-
-Alumni with more valuable skills are more likely to work for top organizations
+  Alumni with more valuable skills are more likely to work for top organizations
 
 Another outcome measure is whether alumni work for a desirable company or organization. LinkedIn lists the 25 enterprises that employ the most alumni from each school. To quantify the value of working for a given entity, employers were coded for desirability with data from a 2014 survey of 46,000 U.S. college students in 329 universities, developed by Universum, a corporate marketing intelligence company. A total of 212 employers, including government agencies, made it onto a top 100 list for at least one group of student majors. The most desirable employers across majors were Google, Disney, Apple, Microsoft, the FBI, Nike, NASA, the Environmental Protection Agency, the Peace Corps, and Facebook. 
 For the top 10 percent of four-year colleges on alumni skills, half of LinkedIn alumni profiles indicate employment at one of the 212 top-rated companies, compared to just one in four for schools in the bottom 10 percent. For two-year schools, nearly two in five alumni (37 percent) of top-tier schools by skill worked for a top company, versus one in five alumni (21 percent) of bottom-tier schools.
 For placement at Google specifically, Harvey Mudd has the highest rate—2 percent of all alumni—followed by Stanford, Carnegie Mellon, Caltech, and MIT. Almost all of the colleges with the highest placement rates at Google are in the top 20 percent of alumni skills, including liberal arts colleges like Swarthmore, Pomona, Claremont, McKenna, and Williams.
- 
+	
+		
+				
+
+	
+			
+		
+
+	
+							Jonathan Rothwell
+		
+							Nonresident Senior Fellow - Metropolitan Policy Program
+					
+						Twitter
+		jtrothwell
+			
+		
+			
+		
+			
+
+			
+	
+	
+  
+
+  
 
 
-
-
-
-
-Jonathan Rothwell
-Nonresident Senior Fellow - Metropolitan Policy Program
-
- Twitter
-jtrothwell
-
-
-
-
-
-
-
-
-
-
-
-Alumni with more valuable skills are more likely to work for innovative organizations
+  Alumni with more valuable skills are more likely to work for innovative organizations
 
 Workers who contribute to the creation and development of new, valuable products can lift the living standards of people around the world. Companies that patent are more likely to be creating these sorts of advanced industry products, and 843 entities, including universities and government agencies, own at least 40 patents granted by the U.S. Patent and Trademark Office in 2014. 
 Four-colleges that graduate alumni in the top 10 percent by skill are twice as likely to have graduates working at a top patenting organization than are colleges in the bottom 10 percent (3.3 versus 1.6 percent). Likewise, graduates from two-year colleges are about twice as likely to be working for a patenting entity if their school is in the top 10 percent compared to the bottom (1.9 versus 0.9 percent).
 Schools with high placement rates at patenting entities include those listed above, as well as less the U.S. Naval Academy, Lawrence Technological University, the Stevens Institute of Technology, Santa Clara University, Brazosport College, Mount Mercy University, University of Texas-Dallas, the Missouri University of Science and Technology, and San Jose State University.
 
+  
+
+  
 
 
-
-
-
-How to judge colleges
+  How to judge colleges
 
 Earnings and other economic outcomes should not be equated with social value, and there are plenty of jobs and professions—child care, teaching, social work—that pay modestly but are nevertheless highly valuable to society. Colleges that specialize in this training or instill even moderately valuable skills in the least academically prepared students may be socially important institutions even if their alumni frequently are less affluent.
 Nonetheless, earnings clearly matter privately and socially, as does work that supports innovation and highly productive advanced industries. Many colleges offer programs of study in fields that appear to have almost no market value—nor even any social value since the knowledge acquired is never put to use, at least through paid employment. In this sense, how well colleges instill highly valuable skills and prepare students to contribute productively to the economy should be an important consideration when evaluating schools. Colleges that do this for the students least likely to otherwise succeed are offering an even more beneficial service, as we have discussed in our value-added college research.
 
-
+  
 Correction: A previous version of this post showed graphs which reversed the label on 2- and 4-year colleges. The graphs have been corrected.
-
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/articles/modeling-with-data-tools-and-techniques-for-scientific-computing/
 TITLE: Modeling with Data: Tools and Techniques for Scientific Computing
 Modeling with Data: Tools and Techniques for Scientific Computing
 BODY:
 
+				
+		PREFACE
 
-PREFACE
 
 
+				Should you use the book? This book is intended to be a complement to the standard stats textbook, in three ways.
+
+First, descriptive and inferential statistics are kept separate beginning with the first sentence of the first chapter. I believe that the fusing of the two is the number one cause of confusion among statistics students.
+
+Once descriptive modeling is given its own space, and models do not necessarily have to be just preparation for a test, the options blossom. There are myriad ways to convert a subjective understanding of the world into a mathematical model, including simulations, models like the Bernoulli/Poisson distributions from traditional probability theory, ordinary least squares, and who knows what else.
+
+If those options aren’t enough, simple models can be combined to form multilevel models to describe situations of arbitrary complexity. That is, the basic linear model or the Bernoulli/Poisson models may seem too simple for many situations, but they are building blocks that let us produce more descriptive models. The overall approach concludes with multilevel models as in, e.g., Eliason (1993), Pawitan (2001) or Gelman & Hill (2007).
+
+Second, many stats texts aim to be as complete as possible, because completeness and a thick spine give the impression of value-for-money: you get a textbook and a reference book, so everything you need is guaranteed to be in there somewhere. 
+
+But it’s hard to learn from a reference book. So I have made a solid effort to provide a narrative to the important points about statistics, even though that directly implies that this book is incomplete relative to the more encyclopedic texts. For example, moment generating functions are an interesting narrative on their own, but they are tangential to the story here, so I do not mention them.
+
+Computation The third manner in which this book complements the traditional stats textbook is that it acknowledges that if you are working with data full time, then you are working on a computer full time. The better you understand computing, the more you will be able to do with your data, and the faster you will be able to do it.
+
+People like to characterize computing as fast-paced and ever-changing, but much of that is just churn on the syntactic surface. The fundamental concepts, conceived by mathematicians with an eye toward the simplicity and elegance of pencil-and paper math, have been around for as long as anybody can remember. Time spent learning those fundamentals will pay off no matter what exciting new language everybody happens to be using this month.
+
+
+
+	Related Books
+	
+			
+			
+
+	
+		
+							R
+					
+	
+	
+						Restoring the American Dream
+					
+									
+						By Richard D. Kahlenberg					
+													2019
+							
+				
+
+		
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						Higher Education to 2030
+					
+									
+						By Organization for Economic Cooperation and Development OECD					
+													2019
+							
+				
+
+		
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						Leapfrogging Inequality
+					
+									
+						By Rebecca Winthrop; With Adam Barton and Eileen McGivney					
+													2018
+							
+				
+
+		
+		
+
+I spent much of my life ignoring the fundamentals of computing and just hacking together projects using the package or language of the month: C++, Mathematica, Octave, Perl, Python, Java, Scheme, SPLUS, Stata, R, and probably a few others that I’ve forgotten. Albee (1960, p 30) explains that “sometimes it’s necessary to go a long distance out of the way in order to come back a short distance correctly;” this is the distance I’ve gone to arrive at writing a book on data-oriented computing using a general and basic computing language. For the purpose of modeling with data, I have found C to be an easier and more pleasant language than the purpose-built alternatives—especially after I worked out that I could ignore much of the advice from books written in the 1980s and apply the techniques I learned from the scripting languages.
+
+WHAT IS THE LEVEL OF THIS BOOK? The short answer is that this is intended for the graduate student or independent researcher, either as a supplement to a standard first-year stats text or for later study. Here are a few more ways to answer that question:
+
+• Ease of use versus ease of initial use: The majority of statistics students are just trying to slog through their department’s stats requirement so they can never look at another data set again. If that is you, then your sole concern is ease of initial use, and you want a stats package and a textbook that focus less on full proficiency and more on immediate intuition.1[1]
+
+	
+		
+				
+
+	
+			
+		
+
+	
+							Ben Klemens
+		
+							Senior Statistician - Office of Tax Analysts, U.S. Department of Treasury
+		
+			
+		
+			
+
+			
+	
+	Conversely, this book is not really about solving today’s problem as quickly as physically possible, but about getting a better understanding of data handling, computing, and statistics. Ease of long-term use will follow therefrom.
+
+• Level of computing abstraction: This book takes the fundamentals of computing seriously, but it is not about reinventing the wheels of statistical computing. For example, Numerical Recipes in C (Press et al., 1988) is a classic text describing the algorithms for seeking optima, efficiently calculating determinants, and making random draws from a Normal distribution. Being such a classic, there are many packages that implement algorithms on its level, and this book will build upon those packages rather than replicate their effort.
+
+• Computing experience: You may have never taken a computer science course, but do have some experience in both the basics of dealing with a computer and in writing scripts in either a stats package or a scripting language like Perl or Python.
+
+• Computational detail: This book includes about 80 working sample programs.
+Code clarifies everything: English text may have a few ambiguities, but all the details have to be in place for a program to execute correctly. Also, code rewards the curious, because readers can explore the data, find out to what changes a procedure is robust, and otherwise productively break the code.
+
+That means that this book is not computing-system-agnostic. So if you are a devotee of a stats package not used here, then why look at this book? Although I do not shy away from C-specific details of syntax, most of the book focuses on the conceptual issues common to all computing environments. If you never look at C code again after you finish this book, you will still have a better grounding for effectively working in your preferred programming language.
+
+• Linear algebra: You are reasonably familiar with linear algebra, such that an expression like X−1 is not foreign to you. There are a countably infinite number of linear algebra tutorials in books, stats text appendices, and online, so this book does not include yet another.
+
+• Statistical topics: The book’s statistical topics are not particularly advanced or trendy: OLS, maximum likelihood, or bootstrapping are all staples of first-year grad-level stats. But by creatively combining building blocks such as these, you will be able to model data and situations of arbitrary complexity.
+
+  View book »
+  
+
+
+[1] I myself learned a few things from the excellently written narrative in Gonick & Smith (1994).
+
+
+
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/articles/forum-debating-bushs-wars/
 TITLE: Forum: Debating Bush’s Wars
 Forum: Debating Bush’s Wars
 BODY:
 
+				
+		In the 
+		
+				Winter 2007–08 issue 
+		of Survival, Philip Gordon argued that America’s strategy against terror is failing ‘because the Bush administration chose to wage the wrong war’. Survival invited former Bush speechwriter and Deputy Assistant to the President Peter Wehner and Kishore Mahbubani, Dean and Professor at the Lee Kuan Yew School of Public Policy in Singapore, to reflect on Gordon’s arguments. Their 
+		comments are available in the above PDF and Philip Gordon’s response is below.
 
-In the 
+I am grateful to Peter Wehner and Kishore Mahbubani for taking the time to comment on my essay, ‘Winning the Right War’. Their comments are valuable not only because both are prominent and influential thinkers but because their divergent views on the subject help to frame the debate: Mahbubani essentially agrees with me but wishes I had ‘gone even further’ in my analysis, while Wehner disagrees and complains that I’ve written a ‘one-sided’, ‘ideological’ brief. Standing between them does not make me right, but it does underscore how, more than six years after the start of the ‘war on terror’, some well-informed observers remain almost diametrically opposed over how to wage it. That, in fact, is why I wrote Winning the Right War (the book from which my Survival essay was drawn) and why I wrote it now: with six years of evidence behind us and with an American presidential election looming, the time seems right for a serious debate about the nature of the Islamist terrorist threat and the policies most likely to defeat it. I am grateful to Peter Wehner and Kishore Mahbubani for taking the time to comment on my essay, ‘Winning the Right War’. Their comments are valuable not only because both are prominent and influential thinkers but because their divergent views on the subject help to frame the debate: Mahbubani essentially agrees with me but wishes I had ‘gone even further’ in my analysis, while Wehner disagrees and complains that I’ve written a ‘one-sided’, ‘ideological’ brief. Standing between them does not make me right, but it does underscore how, more than six years after the start of the ‘war on terror’, some well-informed observers remain almost diametrically opposed over how to wage it. That, in fact, is why I wrote (the book from which my essay was drawn) and why I wrote it now: with six years of evidence behind us and with an American presidential election looming, the time seems right for a serious debate about the nature of the Islamist terrorist threat and the policies most likely to defeat it. 
+I have no ‘rebuttal’ to Mahbubani since he agrees with the broad thrust of my essay, but I do have some comments since we hardly agree on everything. He takes me to task, for example, for concluding my analysis of the sources of the terrorist threat by saying that ‘none of this means that the United States should simply change its policies to make potential terrorists happy’. He asks whether America shouldn’t ‘change those policies which are contributing to the enormous sense of resentment towards America in the larger Islamic world’. 
+I would say of course it should, when it can, and my book gives a number of examples of how it might do so – by banning torture both in law and in practice, closing the Guantanamo prison, changing tactics in and withdrawing troops from Iraq, showing more respect for other countries’ perceptions and interests, and doing more to support the Palestinians, to take just a few. My point, however, was to note that taking actions to lessen resentment of the United States can not simply mean giving in to extremists’ demands. Osama bin Laden wants Israel to disappear, the United States to withdraw entirely from the Middle East, and the region’s current leaders to be replaced with an Islamic caliphate that would impose sharia law, but I doubt Mahbubani would recommend supporting such an agenda in the name of reducing resentment any more than I would. The challenge is to address legitimate social and diplomatic grievances that produce terrorism without caving in to an insatiable terrorist agenda. 
+Mahbubani, like many others, clearly feels that America’s strong support for Israel is a major part of the problem. He gives me credit for ‘somewhat courageously’ noting that by ‘unreservedly justifying any Israeli military action as a necessary part of the “global war on terror” … the United States has reinforced the grievances that inspire people to become terrorists’. This is an important point that requires careful attention. As Mahbubani certainly knows, there are good reasons to be sceptical about bin Laden’s claim to be particularly interested in the fate of the Palestinians. Al-Qaeda grew and planned some of its most spectacular attacks during the 1990s, while the Oslo peace process was in full swing, and only started to focus on Israel later, as it realised that the issue had some resonance among its potential recruits. Even if the United States could somehow force Israel and the Palestinians to conclude a lasting peace tomorrow, many of the factors fuelling Muslim support for terrorism would still exist. 
+That said, I agree – and argue in Winning the Right War – that the Israel–Arab dispute contributes to the resentment that fuels the Islamist terrorist threat. Just because terrorists and extremists opportunistically exploit the Palestinian issue does not mean that it is not an issue. Indeed, ‘opportunism’ is possible only where real anger and emotion create an opportunity to exploit. For extremists like bin Laden, of course, even a comprehensive Israeli–Palestinian peace would not be enough, since he also insists that America will not live in peace until ‘all the army of infidels depart the land of Muhammad’, which may be a long time in coming. But for many Muslims around the world who may be tempted to join, support or sympathise with al-Qaeda or similar groups, the issue of Israel and its relationship with its neighbours is crucial. And I agree with Mahbubani that pretending that the issue is irrelevant to the ‘war on terror’ is a critical mistake. 
+I also broadly agree with Mahbubani that modernising trends in the Muslim world will undermine, more than any US intervention or use of force, fundamentalist Islam, but I have to admit I was surprised by his comments that ‘not a single Islamic society (with the brief and rare exception of the Taliban in Afghanistan) has been taken over by a fundamentalist group’ and that ‘virtually all the Islamic societies are run by modern or modernising elites’. It seems to me that the radicals who took over Iran in 1979 were ‘fundamentalist’ by any meaningful definition, as is the Sudanese regime today. Moreover, it is more than a stretch to view the current leaders of Saudi Arabia, Egypt and Iran as ‘modern or modernising elites’. I do agree that modernisation is going to be a long-term solution to the problem of Islamist terrorism (even though it is also a short-term cause of it) but I wonder if Mahbubani is not being too sanguine about how far along that process has already progressed. Perhaps his forthcoming book will shed some light on this.
+Finally, I would like to correct Mahbubani’s assumption that in the current American political context ‘not a single American strategic thinker would dare suggest’ that the United States establish diplomatic relations with Iran. In fact, some of us are recommending just that. I wrote in Winning the Right War that
 
-Winter 2007–08 issue 
-of Survival, Philip Gordon argued that America’s strategy against terror is failing ‘because the Bush administration chose to wage the wrong war’. Survival invited former Bush speechwriter and Deputy Assistant to the President Peter Wehner and Kishore Mahbubani, Dean and Professor at the Lee Kuan Yew School of Public Policy in Singapore, to reflect on Gordon’s arguments. Their 
-comments are available in the above PDF and Philip Gordon’s response is below.
+  
 
+
+	Related Books
+	
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						JFK’s Forgotten Crisis
+					
+									
+						By Bruce Riedel					
+													2017
+							
+				
+
+		
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						The South Asia Papers
+					
+									
+						By Stephen P. Cohen					
+													2016
+							
+				
+
+		
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						What We Won
+					
+									
+						By Bruce Riedel					
+													2014
+							
+				
+
+		
+		
+
+the United States should agree to talk to Iran about any issue – and even offer to open up full diplomatic relations. America maintained diplomatic relations with the Soviet Union throughout the Cold War and today it has diplomatic relations with dozens of countries that it does not particularly like; indeed one could argue that such relations are most needed when there are contentious issues to sort out.
+  
+
+This is one of the many areas where US policy must change. 
+	
+		
+				
+
+	
+			
+		
+
+	
+							Philip H. Gordon
+		
+							Former Brookings Expert					Mary and David Boies Senior Fellow in U.S. Foreign Policy - Council on Foreign Relations
+		
+			
+		
+			
+
+			
+	
+	Peter Wehner is apparently less convinced of the need for change. Indeed in his defence of the Bush administration, his main argument is not that fighting Islamist terrorism is hard (which would be fair enough) but rather that the ‘war on terror’ is actually going very well. Our cooperation with allies is ‘unprecedented’, we’re thwarting plots, al-Qaeda is on the ropes, the ‘surge’ in Iraq is succeeding, and the overthrow of Saddam Hussein has persuaded Libya and Iran to give up their nuclear-weapons programmes. His Monty Python citation – ’what else have they done for us?’ – implies that the Bush administration’s ‘war on terror’ has had all sorts of benefits for civilisation, and the problem is merely that the locals are unable to see the light. While Wehner is right to insist that not everything is going wrong, I do not share his assessment of progress in the ‘war on terror’ so far, or his refusal to accept the negative consequences of some US policies.
+Take, for example, his rebuttal of my argument that Bush-administration policies have left the United States isolated in the world. I agree that various countries’ intelligence agencies have continued to work with our own (out of self-interest) and also that the Proliferation Security Initiative was an innovative and useful initiative for which the Bush administration deserves credit. But does Wehner really want to deny that US standing in the world has fallen considerably over the past six years and that this has consequences for our foreign policy? In Iraq, the always-thin ‘coalition of the willing’ is shrinking further (the United States now provides 93% of overall forces), and even the British are essentially pulling out. In Afghanistan, NATO allies are refusing to provide adequate forces in part because European leaders find it difficult to persuade their publics to support deployments that are seen as part of Bush’s ‘war on terror’. In the Muslim world, where the war for ‘hearts and minds’ is really being fought, resentment of the United States is at an all-time high, even as some of the autocracies Wehner mentions quietly work with the United States. 
+As I wrote in my article and book, this matters not because we should want to be liked by others, but because millions of people around the world are judging US actions to determine whether they want to be on America’s side, fight against it or sit on the fence. If we can’t get most of them into the first category, or at least the last, all the military and intelligence cooperation in the world will not make us safe. I do agree with Wehner that there is often tension ‘between acting in our national interest and gaining higher approval ratings in foreign countries’. I just think we’ve gotten the balance wrong, and that we’ve failed to realise that ‘gaining higher approval ratings in foreign countries’ can itself be in our national interest.
+Wehner also wants to claim successes in the effort to destroy al-Qaeda and in the war in Iraq, but neither claim stands up to scrutiny. We have indeed killed and captured a number of al-Qaeda leaders, but it is simply wrong to argue that the organisation is on the ropes or that the Iraq War has not contributed to its recruitment effort. According to the July 2007 US National Intelligence Estimate, al-Qaeda has over the past two years ‘re-established its central organization, training infrastructure and lines of global communication’, and used its association with affiliates in Iraq to ‘energize the broader Sunni extremist community, raise resources, and to recruit and indoctrinate operatives’. In Iraq, the recent improvement in the security situation is obviously good news, but it is also highly tenuous and so far unaccompanied by the political agreements or ethnic reconciliation that will be required if the United States is going to be able safely to end its costly deployment. In any case, Wehner’s conclusion that ‘repairs are being made’ misses the point: even if Iraq does gradually edge toward the uneasy peace that is now at the more optimistic end of expectations, the war will have proven to be a massive setback in the effort to counter Islamist extremism and stabilise the Middle East. The Iraq war has cost hundreds of billions of dollars, killed tens of thousands of people, displaced millions internally and externally, inspired radical Islamists, strengthened Iran, destabilised Iraq’s neighbors, and deeply damaged America’s reputation as a competent, respected, and feared world power. It will take much more than a decline in roadside bombs or suicide attacks, however welcome, to compensate for all that. 
+Toward the end of his response, Wehner points out that I failed to notice a mistake in a Glenn Kessler Washington Post article I cited, which referred to a ‘Sunni mosque’ even though the mosque in question was Shia. I regret not noticing that error (which was surely inadvertent, as the mosque was clearly identified in the speech Kessler was citing as ‘one of the most sacred places in Shia Islam’) but the point is that contrary to Wehner’s claim, the difference in this case is incidental. Kessler’s point, and mine, was that it is a mistake to view all sorts of different Muslim groups as one monolithic lump, ‘a thinking enemy’ as Bush put it. This same error is apparent in the passage from journalist Amir Taheri, whom Wehner cites, claiming that ‘Algeria, Egypt, and Turkey have effectively defeated their respective terrorist enemies’ and the ‘Islamofascists have also suffered defeat in Kashmir, Thailand, the Philippines, Indonesia, and Chechnya’. Aside from the fact that it would be news to many of these countries that they have defeated their terrorist enemies, is it really useful to lump those enemies all together despite their vastly different aims? That is the sort of thinking that can lead the United States to invade Saddam Hussein’s Iraq as a response to an al-Qaeda attack on the United States.
+I have other disagreements with Wehner (for example, I do not see how he can argue that our demonstration of ‘resolve’ over the past few years has cowed terrorists more than emboldened them), but let me instead end on a point of agreement. In discussing trends in Iraq and elsewhere, Wehner points out evidence of Muslims turning on the extremists in their midst and increasingly rejecting suicide bombing as a justifiable tactic. Like Wehner (and in a way Mahbubani as well), I think these are important developments and that they point the way to a more hopeful future. Al-Qaeda has no positive vision to offer, its tactics are tarnishing the reputation of Muslims everywhere, and it is killing fellow Muslims and civilians all over the world. In the long run, this is not an approach likely to win broad-based support; on the contrary, unless we artificially prolong its life, it will in time be seen as the nihilistic and counterproductive strategy that it is. All this leads me to recommend the grand strategy that I spell out in Winning the Right War: contain the threat through intelligence, judicial, police and sometimes military means; address the diplomatic, economic and social sources of frustration in the Muslim world; re-establish America’s squandered moral authority and the appeal of US society; engage allies and adversaries alike diplomatically; and seek to diminish our dependence on imported oil which is as bad for oil exporters as it is for us. If we do all that, and stop playing into the extremists’ hands, I believe we can have the same sort of success we had the last time we faced a long-term, ideological threat, during the Cold War. And Islamist extremism will end up on the same ash-heap of history that Communism did. 
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/opinions/think-bigger-on-north-korea/
 TITLE: Think Bigger on North Korea
 Think Bigger on North Korea
 BODY:
 
-While the world is fixated on Iraq and the Middle East, North Korea continues to pose at least as great a threat to Western security interests. Six-party talks with the North Koreans in Beijing have just showed that the Bush administration hasn’t yet found a way out of the nuclear crisis. Although negotiations appear likely to resume in a couple of months, their prospects for success seem poor.
+				While the world is fixated on Iraq and the Middle East, North Korea continues to pose at least as great a threat to Western security interests. Six-party talks with the North Koreans in Beijing have just showed that the Bush administration hasn’t yet found a way out of the nuclear crisis. Although negotiations appear likely to resume in a couple of months, their prospects for success seem poor.
 
 
 The basic dilemma is easy to understand. North Korea will not surrender its nuclear capabilities, which are among its only valuable national assets, unless offered a very good deal for giving them up. President Bush refuses to offer such a deal because he sees the North Korean demand as blackmail. He insists that before any talks about better diplomatic relations or economic interaction occur, North Korea first relinquish—with verification—a nuclear program it had pledged nine years ago to abandon completely. At most, Bush may, as an interim gesture, offer to sign a multilateral accord in which all six parties (the two Koreas, the United States, China, Japan and Russia) pledge not to attack each other.
@@ -831,63 +1182,66 @@ To the extent the Bush administration has a plan for addressing this crisis, it 
 
 
 
-Related Books
+	Related Books
+	
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Dilemmas of a Trading Nation
+					
+									
+						By Mireya Solís					
+													2017
+							
+				
 
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Chinese Politics in the Xi Jinping Era
+					
+									
+						By Cheng Li					
+													2016
+							
+				
 
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Hong Kong in the Shadow of China
+					
+									
+						By Richard C. Bush					
+													2016
+							
+				
 
- 
-
-
-
-Dilemmas of a Trading Nation
-
-
-						By Mireya Solís 
-2017
-
-
-
-
-
-
-
-
-
- 
-
-
-
-Chinese Politics in the Xi Jinping Era
-
-
-						By Cheng Li 
-2016
-
-
-
-
-
-
-
-
-
- 
-
-
-
-Hong Kong in the Shadow of China
-
-
-						By Richard C. Bush 
-2016
-
-
-
-
-
+		
+		
 
 For example, when the delegation from Pyongyang used the recent Beijing meeting to accuse the Bush administration of harboring aggressive designs on North Korea, Russia countered that it was confident the United States had no such intention. The Bush administration also has established a creative concept known as the proliferation security initiative, by which countries such as the United States, Japan, Australia, France and Germany make use of existing national laws to inspect North Korean ships in their waters—complicating North Korea’s efforts to smuggle illicit weapons, drugs and counterfeit currency.
 
@@ -895,24 +1249,30 @@ And the military card is still on the table in principle as well.
 
 But the Bush administration’s strategy is unlikely to work. Faced with gradual economic strangulation, North Korea’s stubborn and spiteful regime would probably again let its people starve—and perhaps consider selling dangerous weapons to terrorists—before crying uncle. Moreover, China, South Korea and Japan are far from ready to apply such a “python strategy.” China publicly criticized the United States for having an inflexible stance in last month’s talks.
 
- 
+	
+		
+				
 
+	
+			
+		
 
+	
+							Michael E. O’Hanlon
+		
+							Senior Fellow - Foreign Policy					Director of Research - Foreign Policy					The Sydney Stein, Jr. Chair
+					
+						Twitter
+		MichaelEOHanlon
+			
+		
+			
+		
+			
 
-
-
-
-Michael E. O’Hanlon
-Senior Fellow - Foreign Policy Director of Research - Foreign Policy The Sydney Stein, Jr. Chair
-
- Twitter
-MichaelEOHanlon
-
-
-
-
-
-Japan and South Korea both insisted on presenting a more conciliatory package of incentives to North Korea in Beijing than Washington was prepared to countenance. And none of our three key regional partners has any interest whatever in a military option at this point.
+			
+	
+	Japan and South Korea both insisted on presenting a more conciliatory package of incentives to North Korea in Beijing than Washington was prepared to countenance. And none of our three key regional partners has any interest whatever in a military option at this point.
 
 Faced with this dilemma, we need to think bigger. We must offer much more to North Korea but demand far more in return. The goal should be to push North Korea, which has shown increasing interest in economic reform, to seriously attempt such reform—building on the precedents offered by China and Vietnam in the past two decades. If North Korea is willing and takes steps, such as cutting its conventional military forces, that are needed to give such a plan any hope of success, we can be generous in return. This would not be giving in to blackmail; it would be a form of assisted suicide for the Stalinist ways of the North Korean regime. Even if Kim Jong Il and his cronies survived the transition, their rule would be radically transformed.
 
@@ -925,21 +1285,19 @@ The United States would, for its part, ease trade sanctions immediately and ulti
 Diplomatic ties and security assurances leading to a full peace treaty would also be appropriate.
 
 Of course, this approach might well fail. North Korean leaders may, for example, believe they need nuclear weapons to deter the Bush administration from another preemptive action against another charter member of the axis of evil. But it would be a major mistake to act on that assumption before testing it. And if we try and fail, coercive policies may then become possible, as our regional partners will have a much harder time claiming that diplomacy has not yet been seriously attempted.
-
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/articles/the-new-urban-demographics-race-space-boomer-aging/
 TITLE: The New Urban Demographics: Race Space & Boomer Aging
 The New Urban Demographics: Race Space & Boomer Aging
 BODY:
 
-America’s urban landscape is changing. The familiar distinctions between central cities and suburbs and between the growing Sunbelt and the more stagnant Frostbelt parts of the country are being complicated by new demographic trends, two in particular. The first trend is the sharp rise in immigration to the United States. Each year about one million people, predominantly Latin American and Asian in origin, arrive in the United States, most settling in urban areas. The second trend involves the baby-boomers. This large cohort of 76 million people?often termed “the pig in the python”?is now aging toward the tail of that python. Most boomers will not move but “age in place”?in the suburbs rather than in the city. Both these trends will have important effects on urban America.
+				America’s urban landscape is changing. The familiar distinctions between central cities and suburbs and between the growing Sunbelt and the more stagnant Frostbelt parts of the country are being complicated by new demographic trends, two in particular. The first trend is the sharp rise in immigration to the United States. Each year about one million people, predominantly Latin American and Asian in origin, arrive in the United States, most settling in urban areas. The second trend involves the baby-boomers. This large cohort of 76 million people?often termed “the pig in the python”?is now aging toward the tail of that python. Most boomers will not move but “age in place”?in the suburbs rather than in the city. Both these trends will have important effects on urban America.
 
-Beyond the “White-Black, City-Suburb” Typology 
+		Beyond the “White-Black, City-Suburb” Typology 
 For much of the postwar period, discussions of race and space in urban America revolved around black migration to central cities and “white flight” to the suburbs. The new immigration that is infusing many urban areas with new residents from a variety of backgrounds suggests the need for a new way of thinking about the demographic profiles of cities and suburbs.
 
 The impact of immigration is apparent from a glance at the central counties (those that contain a metropolitan area’s central-city population) showing greatest population gains during 1990?99. The two largest gainers, Maricopa County, home of Phoenix, and Clark County, home of Las Vegas, achieved most of their gains from domestic migration?migrants from other parts of the United States. Yet each of the next five central counties with the greatest population gains?those of the Los Angeles, Houston, San Diego, Miami, and Dallas metropolitan areas?registered a net loss of domestic migrants. Their gains came entirely from international migration and natural increase. Were it not for immigration, the population of these areas, and of several other large central counties, would register far smaller growth or outright declines. Indeed, areas that do not attract nearly as many immigrants?the central counties of Philadelphia, Pittsburgh, St. Louis, Cleveland, and Buffalo, among others?lost population over the 1990s.
@@ -948,81 +1306,90 @@ Because conventional city-suburb, black-white demographic profiles do not take a
 
 
 
-Related Books
+	Related Books
+	
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Know Your Price
+					
+									
+						By Andre M. Perry					
+													2020
+							
+				
 
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Financial Markets and Development
+					
+									
+						Edited by Alison Harwood, Robert E. Litan, and Michael Pomerleano					
+													2010
+							
+				
 
+		
+			
+			
 
+	
+		
+							
+									
+					
+	
+	
+						Brookings Papers on Education Policy: 2000
+					
+									
+						Edited by Diane Ravitch					
+													2010
+							
+				
 
- 
-
-
-
-Know Your Price
-
-
-						By Andre M. Perry 
-2020
-
-
-
-
-
-
-
-
-
- 
-
-
-
-Financial Markets and Development
-
-
-						Edited by Alison Harwood, Robert E. Litan, and Michael Pomerleano 
-2010
-
-
-
-
-
-
-
-
-
- 
-
-
-
-Brookings Papers on Education Policy: 2000
-
-
-						Edited by Diane Ravitch 
-2010
-
-
-
-
-
+		
+		
 
 The typology begins with a Multiethnic High Immigration category of 12 metropolitan areas with high immigration and a significant Asian or Hispanic presence. The largest of these areas are New York, Los Angeles, Chicago, Washington, D.C., and San Francisco. Four other categories cover areas that have a primarily black minority presence and those that are mostly white; and within each, those growing at a relatively high pace and those growing only modestly. These four categories are: White-Black Fast-Growing (for example, Atlanta), White-Black Slow-Growing (Detroit), Mostly White Fast-Growing (Las Vegas), and Mostly White Slow-Growing (Pittsburgh).
 
 In metropolitan areas where white-black racial dynamics have been a historically important demographic dimension, the slow-growing areas tend to be in the Rustbelt (New Orleans being an exception), and the fast-growing areas are located in the Southeast, which has now begun to attract back significant numbers of African Americans. Mostly White Fast-Growing areas are located primarily in the West and Midwest (Orlando, Nashville, and West Palm Beach excepted). Mostly White Slow-Growing areas are located in the Northeast and Midwest (Louisville excepted).
- 
+	
+		
+				
 
+	
+			
+		
 
+	
+							William H. Frey
+		
+							Senior Fellow - Metropolitan Policy Program
+		
+			
+		
+			
 
-
-
-
-William H. Frey
-Senior Fellow - Metropolitan Policy Program
-
-
-
-
-
+			
+	
+	
 Table 2 gives the composite racial profiles for cities and suburbs in each of these five categories. Multiethnic High Immigration areas clearly have the greatest diversity both in their cities and in their suburbs although the suburbs remain majority white. Among the White-Black categories, the slow-growing areas show a lesser tendency toward black suburbanization.
 
 What these statistics show is that the conventional view of cities as being in decline and as having predominantly black populations fails to take into account recent changes in the urban scene. Today some of the nation’s fastest-growing cities are gaining population from domestic migration and are mostly white. And several large multiethnic metropolitan areas house “majority minorities” in their cities and may soon do so in their suburbs as well.
@@ -1058,19 +1425,129 @@ The demographics of Los Angeles provide just one example of how the two counterv
 Whatever else the new urban population profiles show, the old models of dealing with cities and suburbs will need to be revised to adapt to new demographic forces in America today.
 
 
-
+			
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/opinions/appointments-apocalypse/
 TITLE: Appointments Apocalypse
 Appointments Apocalypse
 BODY:
 
+				
+Anyone who doubts that the presidential appointments process is on the verge of collapse need only look at three recent events.
 
+On April 30, President Bush’s 101st afternoon in office, the White House dumped 61 names into the Senate confirmation process in a desperate effort to beat the Clinton administration’s dismal mark after its 100th day. Despite smashing the single-day nomination record, Bush had nominated less than 30 percent of the candidates for sub-Cabinet posts by the end of that week.
+
+On May 2, Senate Democrats announced that they were delaying a vote on two Justice Department nominees to express their anger over a change in the process that gives home-state Senators a say about federal judicial nominees. Not to be outdone, Republicans followed suit by placing holds on four Defense nominees to remind Secretary Donald Rumsfeld that he should communicate more frequently with the chamber.
+
+On May 4, the administration borrowed the president of the National Academy of Public Administration to stand in for the deputy director for management at the Office of Management and Budget until the administration can find someone willing to fill the most important Senate-confirmed management post. Robert O’Neill will serve in the OMB post for up to 120 days.
+
+These are just the most recent signs of an appointments apocalypse. Every administration since 1960 has faced increasing delays in winning confirmation of its nominees, creating a rising tide of vacancies in the senior ranks of government. Whereas John F. Kennedy had his Cabinet and sub-Cabinet in place by April 1961, Bill Clinton had to wait until mid-October. Short of a miracle in which candidates say yes sooner and the Senate confirmation python digests them faster, the Bush administration will not be fully in place until next February or March.
+
+Some delays involve red tape. Senate-confirmed nominees must answer more than 230 questions, including the dates and places of birth of all relatives, the dates and purposes of all foreign travel dating back 15 years, and a list of any traffic fines above $150. Background checks by the White House Office of Presidential Personnel, FBI and Office of Government Ethics take longer than ever.
+
+Other delays are political. Convinced that a bad appointment hurts more than a good one helps, presidential recruiters have tightened the screws, forcing candidates for even the most trivial political posts to endure a thicket of review.
+
+Meanwhile, the Senate appears to know no limits when it comes to using legislative holds to extract concessions from the president.
+
+Still other delays involve the growing difficulties in recruiting talented Americans to fill the top jobs. Concerns about the cost of moving to Washington, worries about restarting their careers once the administration is over, perceptions that the appointments process is confusing and unfair, and a sense that lower-level jobs are too far from the action have led many of America’s top corporate and civic leaders to conclude that an appointment would be an honor for anyone but them.
+
+
+
+	Related Books
+	
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						Divided Politics, Divided Nation
+					
+									
+						By Darrell M. West					
+													2020
+							
+				
+
+		
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						Bit Player
+					
+									
+						By Stephen Hess					
+													2018
+							
+				
+
+		
+			
+			
+
+	
+		
+							
+									
+					
+	
+	
+						The Last Palace
+					
+									
+						By Norman Eisen					
+													2018
+							
+				
+
+		
+		
+
+Luckily, the Governmental Affairs Committee has begun to build a legislative record supporting long-overdue reform. The committee held two days of hearings last month to define the problem and explore potential solutions, including a reform agenda drafted by The Presidential Appointee Initiative’s advisory board.
+
+The committee could cut the bureaucratic delays by streamlining the financial disclosure forms and creating a single form to collect personal information. It could also accelerate background checks by making sure the investigating offices have enough staffers to do their jobs quickly.
+
+The committee could reduce the political delays by winnowing the number of presidential appointments subject to confirmation, while urging the Senate as a whole to set a 14-day limit on holds and a 45-day clock on Senate review. It could also launch a process for reducing the number of political layers in government, which would ease the burdens on a process that can only accommodate 20 to 30 nominees a week.
+
+Finally, the committee could make presidential service more attractive by increasing appointee salaries and providing at least some relocation assistance.
+
+Action cannot come soon enough. Unless something is done to reduce the red tape, increase comity between the branches and make presidential appointments more attractive, this won’t be the last administration that may be still arriving as it is leaving.
+
+Paul C. Light is Vice President and Director of Governmental Studies at the Brookings Institution and [Senior] Adviser to The Presidential Appointee Initiative.
+	
+		
+				
+
+	
+			
+		
+
+	
+							Paul C. Light
+		
+							Nonresident Senior Fellow - Governance Studies
+		
+			
+		
+			
+
+			
+	
+				
 
 --------------------------------------------------------------------------------
 

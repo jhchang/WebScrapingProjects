@@ -35,7 +35,7 @@ class Crawler:
 			req = requests.get(url)
 		except requests.exceptions.RequestException:
 			return None
-		return BeautifulSoup(req.text, 'html.parser')
+		return BeautifulSoup(req.text, 'lxml')
 
 	def safeGet(self, pageObj, selector):
 		"""
@@ -46,7 +46,7 @@ class Crawler:
 		selectedElems = pageObj.select(selector)
 		if selectedElems is not None and len(selectedElems) > 0:
 			return '\n'.join(
-			[elem.get_text() for elem in selectedElems]) 
+				[elem.get_text() for elem in selectedElems]) 
 		return ''
 
 	def parse(self, site, url): 
@@ -64,6 +64,11 @@ class Crawler:
 
 
 crawler = Crawler()
+
+"""
+had to fix the css selectors and some minor bugs
+"""
+
 siteData = [
 	['O\'Reilly Media', 'http://oreilly.com',
 	'h1', 'div.content > span'],
@@ -84,8 +89,7 @@ print('\n'+'='*80+'\n')
 crawler.parse(websites[1], 'http://www.reuters.com/article/'\
 	'us-usa-epa-pruitt-idUSKBN19W2D0')
 print('\n'+'='*80+'\n')
-crawler.parse(websites[2], 'https://www.brookings.edu/blog/'\
-	'techtank/2016/03/01/idea-to-retire-old-methods-of-policy-education/')
+crawler.parse(websites[2], 'https://www.brookings.edu/articles/modeling-with-data-tools-and-techniques-for-scientific-computing/')
 print('\n'+'='*80+'\n')
 crawler.parse(websites[3], 'https://www.nytimes.com/2018/01/'\
 	'28/business/energy-environment/oil-boom.html')

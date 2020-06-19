@@ -38,14 +38,17 @@ class Crawler:
 			req = requests.get(url)
 		except requests.exceptions.RequestException:
 			return None
-		return BeautifulSoup(req.text, 'html.parser')
+		return BeautifulSoup(req.text, 'html5lib')
 	
 	def safeGet(self, pageObj, selector):
-		childObj = pageObj.select(selector)
-		if childObj is not None and len(childObj) > 0:
-			return childObj[0].get_text()
-		return ""
-	
+		selectedElems = pageObj.select(selector)
+		if selectedElems is not None and len(selectedElems) > 0:
+			elems = []
+			for elem in selectedElems:
+				elems.append(elem.get_text()) 
+			return '\n'.join(elems)
+		return ''
+
 	def search(self, topic, site):
 		"""
 		Searches a given website for a given topic and records all pages found
@@ -75,6 +78,11 @@ class Crawler:
 
 
 crawler = Crawler()
+
+"""
+o'reilly only selects the product results from the search
+"""
+
 
 siteData = [
 	['O\'Reilly Media', 'http://oreilly.com',

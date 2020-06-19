@@ -2,8 +2,6 @@ GETTING INFO ABOUT: python
 
 ================================================================================
 
-SELECTOR: h1
-SELECTOR: div.product-description
 New article found for topic: python
 URL: https://www.oreilly.com/programming/free/python-for-scientists.csp
 TITLE: Python for Scientists
@@ -15,8 +13,6 @@ More and more, scientists are seeing tech seep into their work. From data collec
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.product-description
 New article found for topic: python
 URL: https://www.oreilly.com/programming/free/python-data-for-developers.csp
 TITLE: Python Data for Developers
@@ -31,8 +27,6 @@ Data is everywhere, and not just for data scientists. Developers are increasingl
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKBN1ZG16F
 TITLE: 'It was going for my throat': Florida python hunters wrestle invasive snakes
@@ -41,8 +35,6 @@ OCHOPEE, Fla. (Reuters) - Thomas Aycock’s life flashed before his eyes one nig
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSFWN2CU0ZV
 TITLE: BRIEF-FDA Says Applied Medical Recalls Python Embolectomy, Bard Embolectomy, And Otw Latis Cleaning Catheters
@@ -51,8 +43,6 @@ May 12 (Reuters) - U.S. FDA: * FDA SAYS APPLIED MEDICAL RECALLS PYTHON EMBOLECTO
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKBN1ZL1QG
 TITLE: Monty Python star Terry Jones dies aged 77
@@ -61,8 +51,6 @@ LONDON (Reuters) - Terry Jones, one of the British Monty Python comedy team and 
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSL8N29R45I
 TITLE: Monty Python star Terry Jones dies aged 77
@@ -71,8 +59,6 @@ LONDON (Reuters) - Terry Jones, one of the British Monty Python comedy team and 
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSS8N27T00I
 TITLE: Monty Python actor Terry Jones dies aged 77 - PA Media
@@ -82,8 +68,6 @@ Stephen AddisonOur Standards:The Thomson Reuters Trust Principles.
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKBN1YR1AP
 TITLE: Brussels puppet theater adds Monty Python humor to nativity tale
@@ -92,8 +76,6 @@ BRUSSELS (Reuters) - A Brussels puppet theater as old as Belgium itself is stagi
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSL5N26Q0CH
 TITLE: Monty Python fans, handkerchiefs on heads, gather to mark anniversary
@@ -102,8 +84,6 @@ Monty Python fans dressed as the Gumbys gather in an attempt to set the world re
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKBN1WJ1IF
 TITLE: Pine no more! Monty Python celebrates 50 years of silliness
@@ -112,8 +92,6 @@ FILE PHOTO: People attend the Silly Walk Parade, emulating a sketch from British
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSL5N26P2SI
 TITLE: Pine no more! Monty Python celebrates 50 years of silliness
@@ -122,8 +100,6 @@ FILE PHOTO: People attend the Silly Walk Parade, emulating a sketch from British
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.StandardArticleBody_body
 New article found for topic: python
 URL: /article/idUSKCN11S04G
 TITLE: Python in India demonstrates huge appetite
@@ -135,8 +111,6 @@ A 20 feet rock python was caught on camera in Junagadh district of India’s wes
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/blog/up-front/2015/12/21/the-hutchins-center-explains-budgeting-for-aging-america/
 TITLE: The Hutchins Center Explains: Budgeting for aging America
@@ -268,8 +242,6 @@ The Wall Street Journal’s Washington Wire
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/blog/techtank/2017/11/16/leveraging-the-disruptive-power-of-artificial-intelligence-for-fairer-opportunities/
 TITLE: Leveraging the disruptive power of artificial intelligence for fairer opportunities
@@ -369,8 +341,6 @@ Google is a donor to the Brookings Institution. The findings, interpretations, a
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/blog/the-avenue/2014/08/06/the-silicon-valley-wage-premium/
 TITLE: The Silicon Valley Wage Premium
@@ -483,8 +453,6 @@ These and other skills contribute to the high premium enjoyed by Silicon Valley 
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/opinions/inside-the-pentagons-secret-afghan-spy-machine/
 TITLE: Inside the Pentagon’s Secret Afghan Spy Machine
@@ -496,8 +464,6 @@ The Pentagon’s top researchers have rushed a classified and controversial inte
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/blog/techtank/2016/03/01/idea-to-retire-old-methods-of-policy-education/
 TITLE: Idea to Retire: Old methods of policy education
@@ -620,8 +586,6 @@ Read other essays in the Ideas to Retire blog series here.
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/opinions/skills-success-and-why-your-choice-of-college-matters/
 TITLE: Skills, success, and why your choice of college matters
@@ -779,8 +743,6 @@ Correction: A previous version of this post showed graphs which reversed the lab
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/articles/modeling-with-data-tools-and-techniques-for-scientific-computing/
 TITLE: Modeling with Data: Tools and Techniques for Scientific Computing
@@ -794,8 +756,6 @@ PREFACE
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/articles/forum-debating-bushs-wars/
 TITLE: Forum: Debating Bush’s Wars
@@ -812,8 +772,6 @@ comments are available in the above PDF and Philip Gordon’s response is below.
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
 New article found for topic: python
 URL: https://www.brookings.edu/opinions/think-bigger-on-north-korea/
 TITLE: Think Bigger on North Korea
@@ -929,8 +887,16 @@ Of course, this approach might well fail. North Korean leaders may, for example,
 
 --------------------------------------------------------------------------------
 
-SELECTOR: h1
-SELECTOR: div.post-body
+New article found for topic: python
+URL: https://www.brookings.edu/opinions/appointments-apocalypse/
+TITLE: Appointments Apocalypse
+Appointments Apocalypse
+BODY:
+
+
+
+--------------------------------------------------------------------------------
+
 New article found for topic: python
 URL: https://www.brookings.edu/articles/the-new-urban-demographics-race-space-boomer-aging/
 TITLE: The New Urban Demographics: Race Space & Boomer Aging
@@ -1057,18 +1023,6 @@ The demographics of Los Angeles provide just one example of how the two counterv
 
 Whatever else the new urban population profiles show, the old models of dealing with cities and suburbs will need to be revised to adapt to new demographic forces in America today.
 
-
-
-
---------------------------------------------------------------------------------
-
-SELECTOR: h1
-SELECTOR: div.post-body
-New article found for topic: python
-URL: https://www.brookings.edu/opinions/appointments-apocalypse/
-TITLE: Appointments Apocalypse
-Appointments Apocalypse
-BODY:
 
 
 
