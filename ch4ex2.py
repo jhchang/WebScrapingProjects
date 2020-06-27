@@ -95,7 +95,7 @@ siteData = [
 	['Brookings', 'http://www.brookings.edu',
 		'https://www.brookings.edu/search/?s=',
 		'div.list-content article', 'h4.title a', True, 'h1',
-		'div.post-body']
+		'div.post-body, div.techstream--content']
 ]
 
 sites = []
@@ -104,7 +104,7 @@ for row in siteData:
 						 row[3], row[4], row[5], row[6], row[7]))
 
 topics = ['python']
-#topics = ['python', 'data science']
+topics = ['python', 'data science']
 for topic in topics:
 	print("GETTING INFO ABOUT: " + topic)
 	print('\n'+'='*80+'\n')
